@@ -1,0 +1,514 @@
+movie_title,release_date,genre,MPAA_rating,total_gross,inflation_adjusted_gross
+Snow White and the Seven Dwarfs,"Dec 21, 1937",Musical,G,184925485,5228953251
+Pinocchio,"Feb 9, 1940",Adventure,G,84300000,2188229052
+Fantasia,"Nov 13, 1940",Musical,G,83320000,2187090808
+101 Dalmatians,"Jan 25, 1961",Comedy,G,153000000,1362870985
+Lady and the Tramp,"Jun 22, 1955",Drama,G,93600000,1236035515
+Song of the South,"Nov 12, 1946",Adventure,G,65000000,1078510579
+Star Wars Ep. VII: The Force Awakens,"Dec 18, 2015",Adventure,PG-13,936662225,936662225
+Cinderella,"Feb 15, 1950",Drama,G,85000000,920608730
+The Jungle Book,"Oct 18, 1967",Musical,Not Rated,141843000,789612346
+The Lion King,"Jun 15, 1994",Adventure,G,422780140,761640898
+The Avengers,"May 4, 2012",Action,PG-13,623279547,660081224
+Pirates of the Caribbean: Dead Man’…,"Jul 7, 2006",Adventure,PG-13,423315812,544817142
+Rogue One: A Star Wars Story,"Dec 16, 2016",Adventure,PG-13,529483936,529483936
+Finding Nemo,"May 30, 2003",Adventure,G,380529370,518148559
+Finding Dory,"Jun 17, 2016",Adventure,PG,486295561,486295561
+The Sixth Sense,"Aug 6, 1999",Thriller,PG-13,293506292,485424724
+Avengers: Age of Ultron,"May 1, 2015",Action,PG-13,459005868,459005868
+Toy Story 3,"Jun 18, 2010",Adventure,G,415004880,443408255
+Aladdin,"Nov 11, 1992",Comedy,G,217350219,441969178
+Pirates of the Caribbean: The Curse o…,"Jul 9, 2003",Adventure,PG-13,305411224,426967926
+Iron Man 3,"May 3, 2013",Action,PG-13,408992272,424084233
+"Monsters, Inc.","Nov 2, 2001",Adventure,G,289423425,416073179
+Frozen,"Nov 22, 2013",Adventure,PG,400738009,414997174
+Captain America: Civil War,"May 6, 2016",Action,PG-13,408084349,408084349
+Toy Story 2,"Nov 19, 1999",Adventure,G,245852179,404450426
+"The Chronicles of Narnia: The Lion, t…","Dec 9, 2005",Adventure,PG,291710957,381557539
+Pirates of the Caribbean: At World’…,"May 24, 2007",Adventure,PG-13,309420425,379129960
+Toy Story,"Nov 22, 1995",Adventure,G,191796233,370409631
+The Jungle Book,"Apr 15, 2016",Adventure,PG,364001123,364001123
+Beauty and the Beast,"Nov 13, 1991",Musical,G,218951625,363017667
+Armageddon,"Jul 1, 1998",Adventure,PG-13,201578182,362324957
+Alice in Wonderland,"Mar 5, 2010",Adventure,PG,334191110,357063499
+Inside Out,"Jun 19, 2015",Adventure,PG,356461711,356461711
+Pretty Woman,"Mar 23, 1990",Comedy,R,178406268,356389765
+The Incredibles,"Nov 5, 2004",Adventure,PG,261441092,354488708
+3 Men and a Baby,"Nov 25, 1987",Comedy,PG,167780960,353334607
+Guardians of the Galaxy,"Aug 1, 2014",Adventure,PG-13,333172112,343771168
+Zootopia,"Mar 4, 2016",Adventure,PG,341268248,341268248
+Signs,"Aug 2, 2002",Thriller,PG-13,227965690,330754439
+Up,"May 29, 2009",Adventure,PG,293004164,329336681
+Who Framed Roger Rabbit?,"Jun 22, 1988",Comedy,PG,154112492,316250084
+Cars,"Jun 9, 2006",Comedy,G,244082982,314140384
+The Santa Clause,"Nov 11, 1994",Comedy,PG,144833357,298369717
+Pearl Harbor,"May 25, 2001",Action,PG-13,198539855,295705112
+A Bug's Life,"Nov 20, 1998",Adventure,G,162798565,288981698
+The Waterboy,"Nov 6, 1998",Comedy,PG-13,161491646,288691833
+Tarzan,"Jun 16, 1999",Adventure,G,171091819,283900254
+Sister Act,"May 29, 1992",Comedy,PG,139605150,283583472
+Monsters University,"Jun 21, 2013",Adventure,G,268488329,278395641
+"Honey, I Shrunk the Kids","Jun 23, 1989",Adventure,PG,130724172,276191669
+Pocahontas,"Jun 10, 1995",Adventure,G,141579773,274370957
+Captain America: The Winter Soldier,"Apr 4, 2014",Action,PG-13,259746958,268013076
+National Treasure 2: Book of Secrets,"Dec 21, 2007",Adventure,PG,219961501,267003525
+WALL-E,"Jun 27, 2008",Adventure,G,223808164,262771918
+Ransom,"Nov 8, 1996",Action,R,136492681,259807820
+101 Dalmatians,"Nov 27, 1996",Comedy,G,136189294,258728898
+Pirates of the Caribbean: On Stranger…,"May 20, 2011",Adventure,PG-13,241063875,256263359
+The Rock,"Jun 7, 1996",Action,R,134069511,255702705
+The Aristocats,"Apr 24, 1970",Musical,G,55675257,255161499
+Good Morning Vietnam,"Dec 23, 1987",Comedy,R,123922370,254414837
+Ratatouille,"Jun 29, 2007",Comedy,G,206445654,252955933
+Brave,"Jun 22, 2012",Adventure,PG,237282182,251292441
+Maleficent,"May 30, 2014",Adventure,PG,241407328,249089809
+Moana,"Nov 23, 2016",Adventure,PG,246082029,246082029
+Oz the Great and Powerful,"Mar 8, 2013",Adventure,PG,234770996,243434130
+National Treasure,"Nov 19, 2004",Adventure,PG,173005002,234069353
+Doctor Strange,"Nov 4, 2016",Adventure,PG-13,232532923,232532923
+Big Hero 6,"Nov 7, 2014",Adventure,PG,222527828,229249222
+The Little Mermaid,"Nov 15, 1989",Adventure,G,111543479,223726012
+Mulan,"Jun 19, 1998",Adventure,G,120620254,216807832
+Dinosaur,"May 19, 2000",Adventure,PG,137748063,215438985
+Tangled,"Nov 24, 2010",Adventure,PG,200821936,214388548
+Thor: The Dark World,"Nov 8, 2013",Adventure,PG-13,206362140,213962184
+Lilo & Stitch,"Jun 21, 2002",Adventure,PG,145771527,211506702
+Dick Tracy,"Jun 15, 1990",Action,PG,103738726,207231621
+Wild Hogs,"Mar 2, 2007",Comedy,PG-13,168213584,206110533
+Cars 2,"Jun 24, 2011",Adventure,G,191450875,203522177
+Dead Poets Society,"Jun 2, 1989",Drama,PG,95860116,202531517
+The Santa Clause 2,"Nov 1, 2002",Comedy,G,139225854,201959095
+Cinderella,"Mar 13, 2015",Drama,PG,201151353,201151353
+Wreck-It Ralph,"Nov 2, 2012",Adventure,PG,189412677,200354959
+Phenomenon,"Jul 5, 1996",Drama,PG,104636382,199559799
+Enemy of the State,"Nov 20, 1998",Action,R,111549836,198472008
+George Of The Jungle,"Jul 16, 1997",Comedy,PG,105263257,193326632
+Lincoln,"Nov 9, 2012",Drama,PG-13,182207973,192122330
+The Hunchback of Notre Dame,"Jun 21, 1996",Adventure,G,100138851,190988799
+Con Air,"Jun 6, 1997",Action,R,101117573,185712664
+Bringing Down the House,"Mar 7, 2003",Comedy,PG-13,132675402,185481530
+Sweet Home Alabama,"Sep 27, 2002",Comedy,PG-13,127214072,184521151
+The Proposal,"Jun 19, 2009",Comedy,PG-13,163958031,184288829
+Tron: Legacy,"Dec 17, 2010",Adventure,PG,172062763,183619259
+Hercules,"Jun 13, 1997",Adventure,G,99112101,182029412
+Remember the Titans,"Sep 29, 2000",Drama,PG,115654751,180742479
+The Help,"Aug 10, 2011",Drama,PG-13,169705587,180404976
+Ant-Man,"Jul 17, 2015",Action,PG-13,180202163,180202163
+Father of the Bride,"Dec 20, 1991",Comedy,PG,89325780,179821881
+The Hand That Rocks the Cradle,"Jan 10, 1992",Thriller,R,88036683,178831137
+Chicken Little,"Nov 4, 2005",Adventure,G,135386665,177954661
+Crimson Tide,"May 12, 1995",Action,R,91387195,177102077
+Flubber,"Nov 26, 1997",Comedy,PG,92993801,170406423
+The Chronicles of Narnia: Prince Caspian,"May 16, 2008",Adventure,PG,141621490,166277038
+Dangerous Minds,"Aug 11, 1995",Drama,R,84919401,164552293
+Ruthless People,"Jun 27, 1986",Comedy,R,71624879,162748712
+Inspector Gadget,"Jul 23, 1999",Comedy,PG,97387965,161610341
+The Princess Diaries,"Aug 3, 2001",Comedy,G,108244774,161218928
+Cocktail,"Jul 29, 1988",Drama,R,78222753,160442289
+Gone in 60 Seconds,"Jun 9, 2000",Action,PG-13,101643008,158970411
+Mr. Holland's Opus,"Dec 29, 1995",Drama,PG,82582604,157508868
+While You Were Sleeping,"Apr 21, 1995",Comedy,PG,81057016,157082900
+Splash,"Mar 9, 1984",Comedy,PG,62599495,157057661
+Enchanted,"Nov 21, 2007",Comedy,PG,127706877,156074310
+The Village,"Jul 30, 2004",Thriller,PG-13,114197520,155021748
+Disney's A Christmas Carol,"Nov 6, 2009",Drama,PG,137855863,154927105
+Freaky Friday,"Aug 6, 2003",Comedy,PG,110222438,154090360
+Turner & Hooch,"Jul 28, 1989",Comedy,PG,71079915,150176361
+The Pacifier,"Mar 4, 2005",Comedy,PG,113006880,148619029
+Unbreakable,"Nov 22, 2000",Thriller,PG-13,94999143,148208901
+Father of the Bride Part II,"Dec 8, 1995",Comedy,PG,76578911,147658438
+3 Men and a Little Lady,"Nov 21, 1990",Comedy,PG,71609321,143108869
+Stakeout,"Aug 5, 1987",Comedy,R,65673233,141592160
+Down and Out in Beverly Hills,"Jan 31, 1986",Comedy,R,62134225,141183693
+Cool Runnings,"Oct 1, 1993",Comedy,PG,68856263,140392731
+The Emperor's New Groove,"Dec 15, 2000",Adventure,G,89296573,136789252
+The Horse Whisperer,"May 15, 1998",Drama,PG-13,75383563,135497531
+G-Force,"Jul 24, 2009",Adventure,PG,119436770,134246932
+Bolt,"Nov 21, 2008",Comedy,PG,114053759,133702498
+"Six Days, Seven Nights","Jun 12, 1998",Comedy,PG-13,74339294,133620516
+Into the Woods,"Dec 25, 2014",Musical,PG,128002372,130894237
+The Princess Diaries 2: Royal Engagement,"Aug 11, 2004",Comedy,G,95149435,129164207
+Bedtime Stories,"Dec 25, 2008",Comedy,PG,110101975,128039679
+What About Bob?,"May 17, 1991",Comedy,PG,63710000,127571325
+Atlantis: The Lost Empire,"Jun 8, 2001",Adventure,PG,84052762,125188122
+Babes in Toyland,"Dec 14, 1961",Musical,G,10218316,124841160
+The Good Dinosaur,"Nov 25, 2015",Adventure,PG,123087120,123087120
+Beaches,"Dec 21, 1988",Drama,PG-13,57041866,120381757
+Meet the Robinsons,"Mar 30, 2007",Adventure,G,97822171,119860589
+Brother Bear,"Oct 24, 2003",Adventure,G,85336277,119218333
+The Parent Trap,"Jul 29, 1998",Comedy,PG,66308518,119185667
+Honey I Blew Up the Kid,"Jul 17, 1992",Comedy,PG,58662452,119162518
+Flightplan,"Sep 23, 2005",Thriller,PG-13,89706988,117960425
+The Color of Money,"Oct 17, 1986",Drama,R,52293000,117957323
+Snow Dogs,"Jan 18, 2002",Comedy,PG,81150692,117745317
+Sister Act 2 Back in the Habit,"Dec 10, 1993",Comedy,PG,57319029,116965668
+The Princess and the Frog,"Nov 25, 2009",Adventure,G,104400899,116316457
+Tombstone,"Dec 25, 1993",Western,R,56505065,115781734
+Outrageous Fortune,"Jan 30, 1987",Comedy,R,52864741,113976921
+Jack,"Aug 9, 1996",Drama,PG-13,58617334,111792852
+The Game Plan,"Sep 22, 2007",Comedy,PG,90648202,111010758
+Beverly Hills Chihuahua,"Oct 3, 2008",Comedy,PG,94514402,110932022
+Jungle 2 Jungle,"Mar 7, 1997",Comedy,PG,59925026,110058379
+The Rookie,"Mar 29, 2002",Drama,G,75600072,109691666
+Bon Voyage!,"May 17, 1962",Comedy,Not Rated,9230769,109581646
+The Three Musketeers,"Nov 12, 1993",Adventure,PG,53661805,109310377
+The Kid,"Jul 7, 2000",Comedy,PG,69688384,108993148
+The Santa Clause 3: The Escape Clause,"Nov 3, 2006",Comedy,G,84500122,108694869
+Deuce Bigalow: Male Gigolo,"Dec 10, 1999",Comedy,R,65535067,106921374
+High School Musical 3: Senior Year,"Oct 24, 2008",Musical,G,90559416,106308538
+Arachnophobia,"Jul 18, 1990",Thriller,PG-13,53208180,106290270
+Gnomeo and Juliet,"Feb 11, 2011",Comedy,G,99967670,106270797
+The Haunted Mansion,"Nov 26, 2003",Comedy,PG,75817994,105775678
+Eight Below,"Feb 17, 2006",Adventure,PG,81612565,105037235
+102 Dalmatians,"Nov 22, 2000",Comedy,G,66941559,104055039
+Angels in the Outfield,"Jul 15, 1994",Comedy,PG,50236831,103798152
+When a Man Loves a Woman,"Apr 29, 1994",Drama,R,50021959,103354194
+The Mighty Ducks,"Oct 2, 1992",Comedy,PG,50752337,103120810
+Oliver & Company,"Nov 18, 1988",Adventure,G,49576671,102254492
+Ladder 49,"Oct 1, 2004",Action,PG-13,74541707,101161045
+Bridge to Terabithia,"Feb 16, 2007",Drama,PG,82234139,100760721
+The Nightmare Before Christmas,"Oct 13, 1993",Musical,PG,50408318,100026637
+Up Close & Personal,"Mar 1, 1996",Drama,PG-13,51045801,97356578
+Prince of Persia: Sands of Time,"May 28, 2010",Action,PG-13,90759676,96971361
+Mission to Mars,"Mar 10, 2000",Adventure,PG,60874615,95208344
+Coyote Ugly,"Aug 4, 2000",Drama,PG-13,60786269,95070168
+Fantasia 2000 (IMAX),"Jan 1, 2000",Musical,G,60507228,94852354
+Bicentennial Man,"Dec 17, 1999",Drama,PG,58220776,94838225
+The Distinguished Gentleman,"Dec 4, 1992",Comedy,R,46434570,94349900
+D2: The Mighty Ducks,"Mar 25, 1994",Comedy,PG,45604206,94226333
+Holes,"Apr 18, 2003",Drama,PG,67383924,94203395
+The Muppets,"Nov 23, 2011",Comedy,PG,88625922,94189503
+A Civil Action,"Dec 25, 1998",Drama,PG-13,56709981,94139530
+Disney Planes,"Aug 9, 2013",Comedy,PG,90282580,93614037
+Tomorrowland,"May 22, 2015",Adventure,PG,93436322,93436322
+The Rocketeer,"Jun 21, 1991",Action,PG,46573027,93256673
+The Lone Ranger,"Jul 2, 2013",Western,PG-13,89302115,92597388
+Evita,"Dec 25, 1996",Musical,PG,50047179,92077628
+Hidalgo,"Mar 5, 2004",Western,PG-13,67286731,91340921
+Medicine Man,"Feb 7, 1992",Drama,PG-13,44948240,91304495
+The Preacher's Wife,"Dec 13, 1996",Drama,PG,48102795,91076877
+Real Steel,"Oct 7, 2011",Action,PG-13,85463309,90848019
+Hannah Montana the Movie,"Apr 10, 2009",Drama,G,79576189,89443640
+Shanghai Noon,"May 26, 2000",Western,PG-13,56932305,89042541
+The Jungle Book,"Dec 25, 1994",Adventure,PG,44342956,88930321
+G.I. Jane,"Aug 22, 1997",Drama,R,48169156,88467531
+Mighty Joe Young,"Dec 25, 1998",Adventure,PG,50632037,87906042
+Miracle,"Feb 6, 2004",Drama,PG,64378093,87392478
+Herbie: Fully Loaded,"Jun 22, 2005",Comedy,G,66010682,86812798
+Saving Mr. Banks,"Dec 13, 2013",Drama,PG-13,83299761,86249969
+Three Fugitives,"Jan 27, 1989",Comedy,PG-13,40590000,85757817
+Homeward Bound: The Incredible Journey,"Feb 3, 1993",Adventure,G,41833324,85182343
+War Horse,"Dec 25, 2011",Drama,PG-13,79883359,84762149
+Shanghai Knights,"Feb 7, 2003",Adventure,PG-13,60470220,84537962
+Sky High,"Jul 29, 2005",Adventure,PG,63939454,84088854
+Step Up,"Aug 11, 2006",Drama,PG-13,65328121,84078780
+Big Business,"Jun 10, 1988",Comedy,PG,40150487,82352451
+Déjà Vu,"Nov 22, 2006",Thriller,PG-13,64038616,82267038
+Nothing To Lose,"Jul 18, 1997",Comedy,R,44480039,81692095
+Open Range,"Aug 15, 2003",Western,R,58331254,81547672
+Encino Man,"May 22, 1992",Comedy,PG,40057130,81369058
+Hocus Pocus,"Jul 16, 1993",Comedy,PG,39360491,80147079
+What's Love Got to Do With It,"Jun 9, 1993",Drama,R,39100956,79618610
+The Count of Monte Cristo,"Jan 25, 2002",Drama,PG-13,54228104,78682079
+The Shaggy Dog,"Mar 10, 2006",Comedy,PG,61123569,78667428
+Man of the House,"Mar 3, 1995",Comedy,PG,40029009,77573459
+John Carter,"Mar 9, 2012",Adventure,PG-13,73058679,77372445
+Alice Through the Looking Glass,"May 27, 2016",Adventure,PG,77042381,77042381
+The Royal Tenenbaums,"Dec 14, 2001",Comedy,R,52353636,76758193
+Hannah Montana/Miley Cyrus: Best of B…,"Feb 1, 2008",Musical,G,65281781,76646993
+Pete’s Dragon,"Aug 12, 2016",Adventure,PG,76233151,76233151
+Race to Witch Mountain,"Mar 13, 2009",Adventure,PG,67172594,75501997
+The Doctor,"Jul 24, 1991",Drama,PG-13,37497480,75084021
+Invincible,"Aug 25, 2006",Drama,PG,57806952,74398864
+Alive,"Jan 15, 1993",Adventure,R,36299670,73914543
+The Recruit,"Jan 31, 2003",Thriller,PG-13,52784696,73793522
+Bridge of Spies,"Oct 16, 2015",Thriller,PG-13,72313754,72313754
+The Tigger Movie,"Feb 11, 2000",Adventure,G,45542421,71228678
+The Guardian,"Sep 29, 2006",Action,PG-13,55011732,70801353
+King Arthur,"Jul 7, 2004",Adventure,PG-13,51877963,70423706
+Peter Pan: Return to Neverland,"Feb 15, 2002",Adventure,G,48430258,70269715
+White Fang,"Jan 18, 1991",Adventure,PG,34729091,69540672
+"Alexander and the Terrible, Horrible,…","Oct 10, 2014",Comedy,PG,66954149,69055550
+A Goofy Movie,"Apr 7, 1995",Comedy,G,35336439,68479579
+The Prestige,"Oct 20, 2006",Thriller,PG-13,53089891,68289913
+Step Up 2 the Streets,"Feb 14, 2008",Drama,PG-13,58017783,68118371
+"O Brother, Where Art Thou?","Dec 22, 2000",Comedy,PG-13,45506619,67922002
+Home on the Range,"Apr 2, 2004",Comedy,PG,50026353,67910166
+The Sorcerer's Apprentice,"Jul 14, 2010",Adventure,PG,63150991,67473105
+The Last Song,"Mar 31, 2010",Drama,PG,62950384,67258772
+Judge Dredd,"Jun 30, 1995",Action,R,34687912,67222776
+The Hitchhiker's Guide to the Galaxy,"Apr 29, 2005",Comedy,PG,51019112,67096891
+The Jungle Book 2,"Feb 14, 2003",Adventure,G,47901582,66966883
+The Joy Luck Club,"Sep 8, 1993",Drama,R,32790064,66768171
+Muppet Treasure Island,"Feb 16, 1996",Adventure,G,34327391,65470567
+Apocalypto,"Dec 8, 2006",Adventure,R,50866635,64959548
+Secretariat,"Oct 8, 2010",Drama,PG,59699513,63781920
+I Love Trouble,"Jun 29, 1994",Comedy,PG,30806194,63651027
+Ten Things I Hate About You,"Mar 31, 1999",Comedy,PG-13,38177966,63354375
+Blank Check,"Feb 11, 1994",Comedy,PG,30573770,63170804
+Reign of Fire,"Feb 19, 2002",Action,PG-13,43061982,62480631
+Homeward Bound II: Lost in San Franc…,"Mar 8, 1996",Adventure,G,32709423,62384706
+My Favorite Martian,"Feb 12, 1999",Comedy,PG,36850101,61150849
+Planes: Fire and Rescue,"Jul 18, 2014",Adventure,PG,59157732,61040349
+Under the Tuscan Sun,"Sep 26, 2003",Comedy,PG-13,43601508,60944053
+A Low Down Dirty Shame,"Nov 23, 1994",Action,R,29317886,60321919
+Eddie,"May 31, 1996",Comedy,PG-13,31369401,59828966
+The Lizzie McGuire Movie,"May 2, 2003",Comedy,PG,42734455,59743191
+Powder,"Oct 27, 1995",Drama,PG-13,30833914,59727216
+Green Card,"Dec 25, 1990",Comedy,PG-13,29804169,59679131
+In the Army Now,"Aug 12, 1994",Comedy,PG,28881266,59673787
+3 Ninjas,"Aug 7, 1992",Action,PG,29028000,58965304
+Metro,"Jan 17, 1997",Action,R,32017895,58804106
+I am Number Four,"Feb 18, 2011",Adventure,PG-13,55100437,58574607
+Dan in Real Life,"Oct 20, 2007",Comedy,PG-13,47642963,58350234
+Keeping the Faith,"Apr 14, 2000",Comedy,PG-13,37036404,57925202
+Ernest Saves Christmas,"Nov 11, 1988",Comedy,PG,28202109,57845202
+Deceived,"Sep 27, 1991",Thriller,PG-13,28738096,57544453
+Instinct,"Jun 4, 1999",Drama,R,34105207,56595842
+The Hundred-Foot Journey,"Aug 8, 2014",Comedy,PG,54235441,55961409
+The Rescuers Down Under,"Nov 16, 1990",Adventure,G,27931461,55796728
+Old Dogs,"Nov 25, 2009",Comedy,PG,49492060,55503929
+The BFG,"Jul 1, 2016",Adventure,PG,55483770,55483770
+The Muppet Christmas Carol,"Dec 11, 1992",Comedy,G,27281507,55417615
+Treasure Planet,"Nov 27, 2002",Adventure,PG,38120554,55189145
+James and the Giant Peach,"Apr 12, 1996",Adventure,PG,28921264,55159783
+The Odd Life of Timothy Green,"Aug 15, 2012",Drama,PG,51853450,54914942
+Glory Road,"Jan 13, 2006",Drama,PG,42647449,54888236
+Recess: School's Out,"Feb 16, 2001",Comedy,G,36696761,54656124
+The 13th Warrior,"Aug 27, 1999",Action,R,32698899,54262148
+The Ladykillers,"Mar 26, 2004",Comedy,R,39692139,53881593
+Romy and Michele's High School Reunion,"Apr 25, 1997",Comedy,R,29235353,53693680
+Underdog,"Aug 3, 2007",Adventure,PG,43760605,53619462
+College Road Trip,"Mar 7, 2008",Comedy,G,45610425,53550960
+Son in Law,"Jul 2, 1993",Comedy,PG-13,25989889,52921433
+Muppets Most Wanted,"Mar 21, 2014",Comedy,PG,51178893,52807594
+Grosse Pointe Blank,"Apr 11, 1997",Comedy,R,28084357,51579764
+Spy Hard,"May 24, 1996",Comedy,PG-13,26936265,51373912
+Houseguest,"Jan 6, 1995",Comedy,PG,26325256,51016522
+Raising Helen,"May 28, 2004",Comedy,PG-13,37485528,50886144
+Quiz Show,"Sep 14, 1994",Drama,PG-13,24787282,50840394
+The Hot Chick,"Dec 13, 2002",Comedy,PG-13,35081550,50624654
+First Kid,"Aug 30, 1996",Comedy,PG,26465920,50465108
+Ernest Goes to Jail,"Apr 6, 1990",Comedy,PG,25029569,49999822
+Renaissance Man,"Jun 3, 1994",Comedy,PG-13,24172899,49945474
+Confessions of a Shopaholic,"Feb 13, 2009",Comedy,PG,44277350,49767744
+The Adventures of Huck Finn,"Apr 2, 1993",Adventure,PG,24103594,49080505
+An American Werewolf in Paris,"Dec 25, 1997",Thriller,R,26570463,48546161
+The Wild,"Apr 14, 2006",Adventure,G,37384046,48114115
+Operation Dumbo Drop,"Jul 28, 1995",Adventure,PG,24670346,47809421
+The Insider,"Nov 5, 1999",Drama,R,28965197,47794214
+Oscar,"Apr 26, 1991",Comedy,PG,23562716,47181395
+The Program,"Sep 24, 1993",Action,R,23042200,46919256
+Dead Presidents,"Oct 4, 1995",Drama,R,24120194,46741467
+The Other Sister,"Feb 26, 1999",Comedy,PG-13,27807627,46145331
+Guilty as Sin,"Jun 4, 1993",Thriller,R,22622537,46064723
+Tom and Huck,"Dec 22, 1995",Adventure,PG,23837227,45911517
+Captain Ron,"Sep 18, 1992",Comedy,PG-13,22518097,45741576
+Step Up 3D,"Aug 6, 2010",Drama,PG-13,42400223,45302137
+Air Bud,"Aug 1, 1997",Comedy,PG,24646936,45266588
+Need for Speed,"Mar 14, 2014",Action,PG-13,43568507,44955015
+"McFarland, USA","Feb 20, 2015",Drama,PG,44480275,44480275
+Double Take,"Jan 12, 2001",Action,PG-13,29823162,44418589
+Consenting Adults,"Oct 16, 1992",Drama,R,21591728,43859823
+Bad Company,"Jun 7, 2002",Action,PG-13,30157016,43756218
+D3: The Mighty Ducks,"Oct 4, 1996",Comedy,PG,22936273,43713554
+Surrogates,"Sep 25, 2009",Action,PG-13,38577772,43361416
+Straight Talk,"Apr 3, 1992",Comedy,PG,21202099,43068356
+The Air Up There,"Jan 7, 1994",Comedy,PG,20782439,42940186
+High Fidelity,"Mar 31, 2000",Comedy,R,27277055,42661516
+Iron Will,"Jan 14, 1994",Drama,PG,20623071,42610902
+Super Mario Bros.,"May 28, 1993",Action,PG,20844907,42445058
+Calendar Girls,"Dec 19, 2003",Comedy,PG-13,31011616,42379650
+Boys,"May 10, 1996",Drama,PG-13,21930418,41826566
+Beloved,"Oct 16, 1998",Drama,R,22852487,41062682
+An Innocent Man,"Oct 6, 1989",Drama,R,19397847,40983414
+Another Stakeout,"Jul 23, 1993",Comedy,PG-13,20107504,40943541
+Color of Night,"Aug 19, 1994",Thriller,R,19750470,40804816
+Stella,"Feb 2, 1990",Drama,PG-13,20062347,40077147
+Taking Care of Business,"Aug 17, 1990",Comedy,R,20005435,39963460
+Blaze,"Dec 13, 1989",Drama,R,19049727,39884640
+Confessions of a Teenage Drama Queen,"Feb 20, 2004",Comedy,PG,29331068,39816568
+Betsy's Wedding,"Jun 22, 1990",Comedy,R,19740070,39433357
+Mr. Magoo,"Dec 25, 1997",Comedy,PG,21437192,39145784
+He Got Game,"May 1, 1998",Drama,R,21567853,38766948
+Jonas Brothers: The 3D Concert Experi…,"Feb 27, 2009",Musical,G,38174685,38174685
+Million Dollar Arm,"May 10, 2014",Drama,PG,36447959,37607865
+Frankenweenie,"Oct 5, 2012",Comedy,PG,35287788,37363513
+Paradise,"Sep 18, 1991",Drama,PG-13,18634643,37313540
+Beauty and the Beast (IMAX),"Jan 1, 2002",Musical,G,25487028,36980311
+Gone Fishin',"May 30, 1997",Comedy,PG,19745922,36265379
+Born Yesterday,"Mar 26, 1993",Comedy,PG,17760754,36165012
+DuckTales: The Movie - Treasure of th…,"Aug 3, 1990",Adventure,G,18075331,36107823
+Kazaam,"Jul 17, 1996",Comedy,PG,18880508,36009655
+Earth,"Apr 22, 2009",Documentary,G,32011576,35981010
+Corky Romano,"Oct 12, 2001",Comedy,PG-13,23978402,35705805
+Jane Austen's Mafia,"Jul 24, 1998",Comedy,PG-13,19843795,35668055
+When in Rome,"Jan 29, 2010",Comedy,PG-13,32680633,34917330
+Stick It,"Apr 28, 2006",Comedy,PG-13,26910736,34634731
+Toy Story 3D Double Feature,"Oct 2, 2009",Adventure,G,30702446,34509545
+The Big Green,"Sep 29, 1995",Comedy,PG,17736619,34372339
+Heavy Weights,"Feb 17, 1995",Comedy,PG,17671310,34245779
+Terminal Velocity,"Sep 23, 1994",Action,PG-13,16478900,34048315
+That Darn Cat,"Feb 14, 1997",Comedy,PG,18301828,33613158
+Dark Water,"Jul 8, 2005",Thriller,PG-13,25473093,33500491
+Simon Birch,"Sep 11, 1998",Drama,PG,18253415,32809442
+Around the World in 80 Days,"Jun 16, 2004",Adventure,PG,24004159,32585356
+Piglet's Big Movie,"Mar 21, 2003",Comedy,G,23103423,32298812
+Doug's 1st Movie,"Mar 26, 1999",Adventure,G,19421271,32228598
+The Life Aquatic with Steve Zissou,"Dec 10, 2004",Comedy,R,24006726,32198655
+Ice Princess,"Mar 18, 2005",Comedy,G,24381334,32064685
+Summer of Sam,"Jul 2, 1999",Drama,R,19288130,32007656
+Delivery Man,"Nov 22, 2013",Comedy,PG-13,30659817,31787136
+Billy Bathgate,"Nov 1, 1991",Drama,R,15565363,31167691
+Tim Burton's The Nightmare Before Chr…,"Oct 20, 2006",Musical,PG,24732041,30737517
+Mr. Destiny,"Oct 12, 1990",Comedy,PG-13,15379253,30722056
+Chimpanzee,"Apr 20, 2012",Documentary,G,28965459,30675725
+The Alamo,"Apr 9, 2004",Western,PG-13,22406362,30416359
+Haakon Haakonsen,"Mar 1, 1991",Adventure,PG,15024232,30084149
+Indian Summer,"Apr 23, 1993",Comedy,R,14717851,29968953
+Spaced Invaders,"Apr 27, 1990",Comedy,PG,15000000,29964452
+Mad Love,"May 26, 1995",Drama,PG-13,15446532,29934306
+Cold Creek Manor,"Sep 19, 2003",Thriller,R,21384035,29895090
+Stay Alive,"Mar 24, 2006",Thriller,PG-13,23086480,29712825
+Mr. 3000,"Sep 17, 2004",Comedy,PG-13,21800302,29593641
+Fire Birds,"May 24, 1990",Action,PG-13,14760451,29485923
+A Lot Like Love,"Apr 22, 2005",Comedy,PG-13,21835784,28716947
+Rushmore,"Dec 11, 1998",Comedy,R,17105219,28392518
+Winnie the Pooh,"Jul 15, 2011",Adventure,G,26692846,28375869
+Rocket Man,"Oct 10, 1997",Comedy,PG,15448043,28371890
+Ernest Scared Stupid,"Oct 11, 1991",Comedy,PG,14143280,28320147
+Return to Snowy River,"Apr 15, 1988",Adventure,PG,13687027,28073384
+Tuck Everlasting,"Oct 11, 2002",Drama,PG,19161999,27789959
+The Finest Hours,"Jan 29, 2016",Thriller,PG,27569558,27569558
+You Again,"Sep 24, 2010",Comedy,PG,25702053,27461121
+The Sixth Man,"Mar 28, 1997",Comedy,PG-13,14765099,27117599
+Nixon,"Dec 20, 1995",Drama,R,13668249,26302005
+A Far Off Place,"Mar 12, 1993",Adventure,PG,12890752,26248558
+A Kid in King Arthur's Court,"Aug 11, 1995",Adventure,PG,13406717,25981285
+Max Keeble's Big Move,"Oct 5, 2001",Comedy,PG,17292381,25749730
+Valiant,"Aug 19, 2005",Adventure,G,19478106,25616292
+crazy/beautiful,"Jun 29, 2001",Drama,PG-13,16929123,25214223
+The Invisible,"Apr 27, 2007",Thriller,PG-13,20568319,25202168
+Life With Mikey,"Jun 4, 1993",Comedy,PG,12349549,25146538
+A Stranger Among Us,"Jul 17, 1992",Drama,PG-13,12282994,24950752
+The Marrying Man,"Apr 5, 1991",Comedy,R,12454768,24939118
+The Country Bears,"Jul 26, 2002",Adventure,G,16988996,24650121
+Mr. Wrong,"Feb 16, 1996",Comedy,PG-13,12805071,24422334
+The Associate,"Oct 25, 1996",Comedy,PG-13,12772657,24333094
+3 Ninjas Kick Back,"May 6, 1994",Action,PG,11744960,24267154
+Gross Anatomy,"Oct 20, 1989",Drama,PG-13,11346186,23972012
+Ghosts of the Abyss,"Apr 11, 2003",Documentary,G,17093668,23803108
+Pooh's Heffalump Movie,"Feb 11, 2005",Adventure,G,18098433,23801835
+Roommates,"Mar 3, 1995",Comedy,PG,12076989,23404369
+The Ref,"Mar 9, 1994",Comedy,R,11325885,23401275
+Mars Needs Moms,"Mar 11, 2011",Adventure,PG,21392758,22741603
+New York Stories,"Mar 1, 1989",Drama,PG,10763469,22740861
+One Good Cop,"May 3, 1991",Action,R,11276846,22580472
+Annapolis,"Jan 27, 2006",Drama,PG-13,17127992,22044113
+I'll Be Home For Christmas,"Nov 13, 1998",Comedy,PG,12214338,21941840
+Holy Man,"Oct 9, 1998",Comedy,PG,12069719,21694605
+Camp Nowhere,"Aug 26, 1994",Comedy,PG,10442641,21576332
+Oceans,"Apr 22, 2010",Documentary,G,19422319,20751600
+Out Cold,"Nov 21, 2001",Comedy,PG-13,13906394,20700691
+The Crew,"Aug 25, 2000",Comedy,PG-13,13019253,20362201
+The Secret World of Arietty,"Feb 17, 2012",Adventure,G,19192510,20325733
+The Greatest Game Ever Played,"Sep 30, 2005",Drama,PG,15331289,20162672
+Deep Rising,"Jan 30, 1998",Action,R,11203026,20136775
+The Scarlet Letter,"Oct 13, 1995",Drama,R,10359006,20075033
+White Squall,"Feb 2, 1996",Adventure,PG-13,10229300,19509726
+Fright Night,"Aug 19, 2011",Thriller,R,18298649,19452402
+Swing Vote,"Aug 1, 2008",Comedy,PG-13,16289867,19125841
+Angie,"Mar 4, 1994",Comedy,R,9252349,19116981
+Bears,"Apr 18, 2014",Documentary,G,17780194,18346024
+25th Hour,"Dec 19, 2002",Drama,R,13084595,18325463
+The Inkwell,"Apr 22, 1994",Comedy,R,8864699,18316030
+White Fang 2: Myth of the White Wolf,"Apr 15, 1994",Adventure,PG,8752399,18083994
+The Puppet Masters,"Oct 21, 1994",Thriller,R,8579626,17727017
+Celtic Pride,"Apr 19, 1996",Comedy,PG-13,9240378,17623615
+Gake no ue no Ponyo,"Aug 14, 2009",Adventure,G,15090399,16961607
+Before and After,"Feb 23, 1996",Drama,PG-13,8642118,16482589
+Monkey Kingdom,"Apr 17, 2015",Documentary,G,16432322,16432322
+African Cats,"Apr 22, 2011",Documentary,G,15428747,16401551
+The Rich Man's Wife,"Sep 13, 1996",Thriller,R,8538318,16284619
+Tall Tale,"Mar 24, 1995",Western,PG,8247627,15983331
+Aspen Extreme,"Jan 22, 1993",Comedy,PG-13,7843388,15970955
+Unstrung Heroes,"Sep 15, 1995",Drama,PG,7929000,15365850
+Sarafina!,"Sep 18, 1992",Drama,PG-13,7306242,14841352
+Sorority Boys,"Mar 22, 2002",Comedy,R,10198766,14797862
+"Mystery, Alaska","Oct 1, 1999",Comedy,R,8891623,14755189
+The Jerky Boys,"Feb 3, 1995",Comedy,R,7555256,14641561
+Casanova,"Dec 25, 2005",Drama,R,11304403,14574087
+A Thousand Acres,"Sep 19, 1997",Drama,R,7928412,14561324
+1492: Conquest of Paradise,"Oct 9, 1992",Adventure,PG-13,7099531,14421454
+Sen to Chihiro no Kamikakushi,"Sep 20, 2002",Adventure,PG,10049886,14338992
+Fantasia 2000 (Theatrical Release),"Jun 16, 2000",Musical,G,9103630,14238144
+Krippendorf's Tribe,"Feb 27, 1998",Comedy,PG-13,7571115,13608633
+Shopgirl,"Oct 21, 2005",Drama,R,10284523,13519621
+Play it to the Bone,"Dec 24, 1999",Comedy,R,8427204,13180524
+People Like Us,"Jun 29, 2012",Drama,PG-13,12431792,13165822
+Primeval,"Jan 12, 2007",Adventure,R,10597734,12985302
+Roving Mars,"Jan 27, 2006",Documentary,G,10407978,12948025
+The Light Between Oceans,"Sep 2, 2016",Drama,PG-13,12545979,12545979
+Strange Magic,"Jan 23, 2015",Adventure,PG,12429583,12429583
+Ed Wood,"Sep 30, 1994",Comedy,R,5828466,12042634
+Aliens of the Deep,"Jan 28, 2005",Documentary,G,8968684,11740942
+Swing Kids,"Mar 5, 1993",Musical,PG-13,5632086,11468231
+The Cemetery Club,"Feb 3, 1993",Comedy,PG-13,5583621,11369541
+Last Dance,"May 3, 1996",Drama,R,5857534,11171714
+The Tie That Binds,"Sep 8, 1995",Thriller,R,5762795,11167895
+Prom,"Apr 29, 2011",Comedy,PG,10130219,10768946
+Big Trouble,"Apr 5, 2002",Comedy,PG-13,7262288,10537188
+Kundun,"Dec 25, 1997",Drama,PG-13,5686694,10236836
+The Straight Story,"Oct 15, 1999",Drama,G,6197866,10111144
+Moonlight Mile,"Sep 27, 2002",Drama,PG-13,6830957,9909094
+Innocent Blood,"Sep 25, 1992",Thriller,R,4877567,9907922
+Miami Rhapsody,"Jan 27, 1995",Comedy,PG-13,5086578,9857435
+Miracle at St. Anna,"Sep 26, 2008",Drama,R,7916887,9295171
+Young Black Stallion,"Dec 25, 2003",Adventure,G,6751389,9254344
+Queen of Katwe,"Sep 23, 2016",Drama,PG,8874389,8874389
+Teacher's Pet: The Movie,"Jan 16, 2004",Comedy,PG,6491969,8812764
+The Hoax,"Apr 6, 2007",Drama,R,7164995,8779196
+A Beautiful Planet,"Apr 29, 2016",Documentary,G,7895708,7895708
+Meet the Deedles,"Mar 27, 1998",Comedy,PG,4356126,7829877
+Playing God,"Oct 17, 1997",Thriller,R,4166918,7652965
+Mumford,"Sep 24, 1999",Comedy,R,4559569,7566363
+Bubble Boy,"Aug 24, 2001",Comedy,PG-13,5002310,7450434
+Duets,"Sep 15, 2000",Drama,R,4734235,7404372
+Cabin Boy,"Jan 7, 1994",Comedy,PG-13,3469493,7168577
+Just Visiting,"Apr 6, 2001",Comedy,PG-13,4777007,7114869
+A Simple Twist of Fate,"Sep 2, 1994",Drama,PG-13,3404935,7035189
+Squanto: A Warrior's Tale,"Oct 28, 1994",Drama,PG,3319344,6858345
+Bad Company,"Jan 20, 1995",Thriller,R,3523909,6829092
+Hauru no ugoku shiro,"Jun 10, 2005",Adventure,PG,4710455,6194870
+ESPN's Ultimate X - The Movie,"May 10, 2002",Documentary,PG,4197175,6089874
+Blame it on the Bellboy,"Mar 6, 1992",Comedy,PG-13,2891055,5872667
+The Lookout,"Mar 30, 2007",Drama,R,4600585,5637048
+Goal! The Dream Begins,"May 12, 2006",Drama,PG,4283255,5512647
+Kaze Tachinu,"Nov 8, 2013",Drama,PG-13,5201879,5367415
+Jefferson in Paris,"Mar 31, 1995",Drama,PG-13,2461628,4770461
+Noises Off...,"Mar 20, 1992",Comedy,PG-13,2280148,4631720
+Cradle Will Rock,"Dec 8, 1999",Drama,R,2899970,4609153
+Shadow Conspiracy,"Jan 31, 1997",Thriller,R,2154540,3957025
+The Fifth Estate,"Oct 18, 2013",Drama,R,3254172,3374251
+Washington Square,"Oct 5, 1997",Drama,PG,1775644,3257546
+Gun Shy,"Feb 4, 2000",Comedy,R,1638202,2562155
+Veronica Guerin,"Oct 17, 2003",Drama,R,1569918,2194759
+Money for Nothing,"Sep 10, 1993",Comedy,R,1044824,2127496
+Two Much,"Mar 15, 1996",Comedy,PG-13,1078555,2057055
+Un indien dans la ville,"Mar 22, 1996",Comedy,PG,1029731,1963937
+X Games 3D: The Movie,"Aug 21, 2009",Documentary,PG,1391434,1563976
+Firelight,"Sep 4, 1998",Drama,R,784419,1409943
+Prefontaine,"Jan 24, 1997",Drama,PG-13,590817,1085093
+Funny Bones,"Mar 31, 1995",Comedy,R,529135,1025425
+A Pyromaniac's Love Story,"Mar 28, 1995",Comedy,PG,468240,907414
+The Last Shot,"Sep 24, 2004",Comedy,R,463730,629502
+Feast of July,"Oct 13, 1995",Drama,R,293274,568342
+America's Heart and Soul,"Jul 2, 2004",Documentary,Not Rated,314000,426246
+Morning Light,"Oct 17, 2008",Documentary,PG,275093,322979
+Breakfast of Champions,"Sep 17, 1999",Comedy,R,178287,295851
+Goal! 2: Living the Dream...,"Aug 29, 2008",Drama,PG-13,225067,264247
+Waking Sleeping Beauty,"Mar 26, 2010",Documentary,PG,80741,86264
+An Alan Smithee Film: Burn Hollywood …,"Feb 27, 1998",Comedy,R,45779,82277
+Gedo Senki (Tales from Earthsea),"Aug 13, 2010",Adventure,PG-13,48658,51988
+Walt and El Grupo,"Sep 10, 2009",Documentary,PG,20521,23064
+Zokkomon,"Apr 22, 2011",Adventure,PG,2815,2984
